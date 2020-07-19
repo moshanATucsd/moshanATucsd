@@ -1,5 +1,5 @@
 ### Mo Shan  
-[![Twitter Badge](https://img.shields.io/badge/-Mo_Shan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/MoShan70924795)  [![Linkedin Badge](https://img.shields.io/badge/-Mo_Shan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/mo-shan-21393452/)
+[![Twitter Badge](https://img.shields.io/badge/-Mo_Shan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MoShan70924795)](https://twitter.com/MoShan70924795)  [![Linkedin Badge](https://img.shields.io/badge/-Mo_Shan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shan-21393452//)](https://www.linkedin.com/in/mo-shan-21393452/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
@@ -15,4 +15,3 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-⭐️ From [Isha Gupta](https://github.com/Isha2103)
