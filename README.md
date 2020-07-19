@@ -9,7 +9,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mo Shan's github stats](https://github-readme-stats.vercel.app/api?username=moshanATucsd)](https://github.com/moshanATucsd/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=moshanATucsd)](https://github.com/moshanATucsd/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
