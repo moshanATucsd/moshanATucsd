@@ -1,15 +1,19 @@
-### Mo Shan  
-[![Twitter Badge](https://img.shields.io/badge/-Mo_Shan-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MoShan70924795)](https://twitter.com/MoShan70924795)  [![Linkedin Badge](https://img.shields.io/badge/-Mo_Shan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shan-21393452//)](https://www.linkedin.com/in/mo-shan-21393452/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### About
+
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/moshanATucsd)
 
 -  **Languages :** Python, C++
 -  **Hobbies :** Detective novels 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=moshanATucsd)](https://github.com/moshanATucsd/github-readme-stats)
+### Contact   
+
+[![Twitter Badge](https://img.shields.io/badge/-My_Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/MoShan70924795)](https://twitter.com/MoShan70924795)  [![Linkedin Badge](https://img.shields.io/badge/-My_Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mo-shan-21393452//)](https://www.linkedin.com/in/mo-shan-21393452/)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
